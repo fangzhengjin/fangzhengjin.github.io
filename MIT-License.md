@@ -1,3 +1,7 @@
+---
+permalink: /MIT-License.html
+---
+
 MIT License
 
 Copyright (c) 2022 ZhengJin Fang
